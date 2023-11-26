@@ -1,0 +1,8 @@
+C:\Users\Batuhan\Desktop\saat dll\bin\Debug\saat dll.dll
+C:\Users\Batuhan\Desktop\saat dll\bin\Debug\saat dll.pdb
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat dll.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat_dll.UserControl1.resources
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat dll.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat dll.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat dll.dll
+C:\Users\Batuhan\Desktop\saat dll\obj\Debug\saat dll.pdb
